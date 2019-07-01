@@ -19,7 +19,7 @@ First things first!
 Clone the repo
 
 ```
-git clone 
+git clone https://github.com/spencerneveux/TheInitializer.git
 ```
 
 ## Running the program
