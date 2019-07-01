@@ -1,7 +1,7 @@
 # TheInitializer
-# A python script that creates basic Flask app templates with chosen bootstrap example templates. 
+# Flask App/Bootstrap Initialization
 
-One Paragraph of project description goes here
+A python script that creates basic Flask app templates with chosen bootstrap example templates. 
 
 ## Getting Started
 
